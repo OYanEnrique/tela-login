@@ -4,7 +4,15 @@ Este é um exercício do módulo 4 do curso de HTML5 e CSS3 do Curso em Vídeo, 
 
 ## Descrição
 
-Projeto de uma tela de login desenvolvida como parte do aprendizado de HTML5 e CSS3.
+Projeto de uma tela de login responsiva desenvolvida como parte do aprendizado de HTML5 e CSS3. A interface apresenta um design moderno com layout centralizado, imagem de fundo personalizada e formulário de autenticação.
+
+## Características
+
+- 📱 Design responsivo e centralizado
+- 🎨 Interface moderna com degradê roxo
+- 🖼️ Seção de imagem customizável
+- 📝 Formulário de login estilizado
+- 🔲 Card com sombra e bordas arredondadas
 
 ## Estrutura do Projeto
 
@@ -20,6 +28,18 @@ login-screen/
 
 - HTML5
 - CSS3
+  - Flexbox
+  - Posicionamento absoluto
+  - Box-shadow e border-radius
+  - Background gradiente
+
+## Conceitos Aplicados
+
+- Reset CSS com seletor universal
+- Centralização de elementos com transform
+- Layout responsivo com unidades vh/vw
+- Imagem de fundo com propriedades CSS
+- Estruturação semântica do HTML
 
 ## Como Usar
 
