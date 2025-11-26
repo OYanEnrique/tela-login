@@ -11,10 +11,13 @@ Projeto de uma tela de login responsiva desenvolvida como parte do aprendizado d
 - 📱 Design totalmente responsivo com media queries
 - 🎨 Interface moderna com degradê roxo
 - 🖼️ Seção de imagem customizável
-- 📝 Formulário de login estilizado
+- 📝 Formulário de login completo e funcional
 - 🔲 Card com sombra e bordas arredondadas
 - ✨ Transições suaves entre breakpoints
 - 💻 Layout adaptativo para mobile, tablet e desktop
+- 🎯 Ícones do Material Icons para melhor UX
+- 🔒 Validação de campos (email e senha)
+- 🔗 Link para recuperação de senha
 
 ## Estrutura do Projeto
 
@@ -30,6 +33,8 @@ login-screen/
 ## Tecnologias Utilizadas
 
 - HTML5
+  - Formulários com validação
+  - Atributos semânticos (autocomplete, required, maxlength)
 - CSS3
   - Flexbox
   - Posicionamento absoluto
@@ -38,6 +43,7 @@ login-screen/
   - Media Queries para responsividade
   - Transitions e animações
   - Float para layouts em telas maiores
+- Google Material Icons
 
 ## Conceitos Aplicados
 
@@ -52,6 +58,10 @@ login-screen/
   - Tablet: 768px - 992px
   - Desktop: 993px+
 - Transições CSS para efeitos suaves
+- Formulários HTML5 com validação nativa
+- Acessibilidade com labels e placeholders
+- Integração de bibliotecas de ícones externas
+- Tipografia responsiva (ajuste de fonte por breakpoint)
 
 ## Como Usar
 
