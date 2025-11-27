@@ -17,7 +17,9 @@ Projeto de uma tela de login responsiva desenvolvida como parte do aprendizado d
 - 💻 Layout adaptativo para mobile, tablet e desktop
 - 🎯 Ícones do Material Icons para melhor UX
 - 🔒 Validação de campos (email e senha)
-- 🔗 Link para recuperação de senha
+- 🔗 Botões estilizados com efeitos hover
+- 🎨 Campos de entrada com estilização customizada
+- 🖱️ Feedback visual em interações (hover states)
 
 ## Estrutura do Projeto
 
@@ -43,6 +45,8 @@ login-screen/
   - Media Queries para responsividade
   - Transitions e animações
   - Float para layouts em telas maiores
+  - Pseudo-classes (:hover, :focus)
+  - Estilização de formulários
 - Google Material Icons
 
 ## Conceitos Aplicados
@@ -62,6 +66,9 @@ login-screen/
 - Acessibilidade com labels e placeholders
 - Integração de bibliotecas de ícones externas
 - Tipografia responsiva (ajuste de fonte por breakpoint)
+- Estilização de botões com estados hover
+- Feedback visual em elementos interativos
+- Customização completa de inputs e campos
 
 ## Como Usar
 
