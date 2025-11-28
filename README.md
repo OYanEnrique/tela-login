@@ -15,11 +15,12 @@ Projeto de uma tela de login responsiva desenvolvida como parte do aprendizado d
 - 🔲 Card com sombra e bordas arredondadas
 - ✨ Transições suaves entre breakpoints
 - 💻 Layout adaptativo para mobile, tablet e desktop
-- 🎯 Ícones do Material Icons para melhor UX
+- 🎯 Ícones do Material Icons integrados aos campos
 - 🔒 Validação de campos (email e senha)
 - 🔗 Botões estilizados com efeitos hover
-- 🎨 Campos de entrada com estilização customizada
-- 🖱️ Feedback visual em interações (hover states)
+- 🎨 Inputs customizados com fundo colorido
+- 🖱️ Feedback visual com :focus-within
+- 📦 Altura adaptativa do card por breakpoint
 
 ## Estrutura do Projeto
 
@@ -45,8 +46,10 @@ login-screen/
   - Media Queries para responsividade
   - Transitions e animações
   - Float para layouts em telas maiores
-  - Pseudo-classes (:hover, :focus)
+  - Pseudo-classes (:hover, :focus, :focus-within)
   - Estilização de formulários
+  - Função calc() para larguras dinâmicas
+  - Transform para posicionamento
 - Google Material Icons
 
 ## Conceitos Aplicados
@@ -69,6 +72,10 @@ login-screen/
 - Estilização de botões com estados hover
 - Feedback visual em elementos interativos
 - Customização completa de inputs e campos
+- Uso de :focus-within para feedback de foco
+- Posicionamento de ícones dentro de inputs
+- Cálculos dinâmicos com calc() para layouts
+- Dimensões adaptativas do container por breakpoint
 
 ## Como Usar
 
